@@ -149,21 +149,33 @@ h5 {
   background-image: url(../assets/menu-icon.svg);
 }
 
+#btn-down {
+  margin-left: 50%;
+  margin-right: 50%;
+  margin-top: 30px;
+}
+
+
 .about {
   margin-top: 80px;
 }
 
-.about h2 {
-  text-align: center;;
-  text-transform: uppercase;
-}
-.container{
-  margin-top: 80px;
-}
-.img-about{
-  padding-left: 50px;
+#about {
+  margin-top: 50px;
 }
 
+#about h2 {
+  text-align: center;
+  font-size: 1.953em;
+  color: #000000;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+#about video {
+  border: 0px;
+  border-radius: 40px;
+}
 
 
 
@@ -234,11 +246,11 @@ h5 {
   }
 
   #typewriter h1 {
-    font-size: 17px;
+    font-size: 16.8px;
   }
 
   #typewriter h5 {
-    font-size: 12px;
+    font-size: 11.5px;
   }
 
   #sections a {
