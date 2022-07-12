@@ -155,13 +155,9 @@ h5 {
   margin-top: 30px;
 }
 
-
-.about {
-  margin-top: 80px;
-}
-
 #about {
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 #about h2 {
@@ -177,6 +173,11 @@ h5 {
 #about video {
   border: 0px;
   border-radius: 40px;
+}
+#habilidades{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  background-color: #fdf5e6;
 }
 
 
