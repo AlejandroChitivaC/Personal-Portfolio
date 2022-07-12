@@ -193,6 +193,11 @@ body {
 .list-icons {
   font-size: 2.5rem;
 }
+#skills h2{
+  text-transform: uppercase;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
 
 #skill-bars {
   width: 50%;
@@ -210,9 +215,7 @@ body {
   );
 }
 
-.fa-user-tag,
-.blue,
-.list-inline-item i:hover {
+.fa-user-tag,.blue,.list-inline-item i:hover {
   color: #5fb4e8;
   transition: all 0.2s ease-in-out;
 }
