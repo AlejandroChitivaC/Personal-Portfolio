@@ -175,6 +175,7 @@ h5 {
   border: 0px;
   border-radius: 40px;
 }
+
 body {
   box-sizing: border-box;
 }
@@ -184,8 +185,9 @@ body {
   font-size: 1.2rem;
   color: #4f4f4f;
   font-family: "Poppins", sans-serif;
-  background-color:#fdf5e6;
+  background-color: #fdf5e6;
 }
+
 .list-inline {
   list-style: none;
 }
@@ -193,7 +195,8 @@ body {
 .list-icons {
   font-size: 2.5rem;
 }
-#skills h2{
+
+#skills h2 {
   text-transform: uppercase;
   font-weight: bold;
   padding-bottom: 20px;
@@ -205,29 +208,51 @@ body {
 }
 
 .progress-bar {
-  background-image: linear-gradient(
-    to right,
-    #bfefff,
-    #8dd2f3,
-    #5fb4e8,
-    #3594dc,
-    #1874cd
-  );
+  background-image: linear-gradient(to right,
+      #bfefff,
+      #8dd2f3,
+      #5fb4e8,
+      #3594dc,
+      #1874cd);
 }
 
-.fa-user-tag,.blue,.list-inline-item i:hover {
+.fa-user-tag,
+.blue,
+.list-inline-item i:hover {
   color: #5fb4e8;
   transition: all 0.2s ease-in-out;
 }
-#container-pr{
+
+#container-pr {
   margin-top: 50px;
 }
-#container-pr h2{
+
+#container-pr h2 {
   text-transform: uppercase;
   font-weight: bold;
   padding-bottom: 20px;
   color: black;
   font-size: 33px;
+}
+
+.col {
+  padding-top: 10px;
+  border-radius: 20px;
+
+}
+
+.col:hover {
+  background-color: #218dec;
+  cursor: pointer;
+  color: white;
+  transition: all .5s 0s ease;
+  
+}
+
+.col a:hover {
+  background-color: #ffffff;
+
+  transition: all 0.2s ease-in-out;
 }
 
 
