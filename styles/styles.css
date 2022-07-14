@@ -219,26 +219,16 @@ body {
   color: #5fb4e8;
   transition: all 0.2s ease-in-out;
 }
-#portfolio{
+#container-pr{
   margin-top: 50px;
-  margin-bottom: 50px;
-  padding-top: 20px;
 }
-#portfolio h2{
+#container-pr h2{
   text-transform: uppercase;
-  color: #000000;
   font-weight: bold;
   padding-bottom: 20px;
-  text-align: center;
+  color: black;
+  font-size: 33px;
 }
-.card-body ul{
-  list-style:circle;
- 
-
-}
-
-
-
 
 
 
