@@ -261,6 +261,7 @@ body {
   text-align: center;
   justify-content: center;
 }
+
 #contacto{
   margin-top: 50px;
   margin-bottom: 50px;
@@ -270,7 +271,7 @@ body {
 #contacto h2{
   text-align: center;
   font-size: 33px;
-  color: #000000 !important;
+  color: dodgerblue;
   font-weight: bold;
   text-transform: uppercase;
   margin-bottom: 30px;
@@ -310,19 +311,6 @@ footer a{
   color: #4f4f4f;
   font-family: "Poppins", sans-serif;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Media Queries */
 @media (max-width: 991px) {
