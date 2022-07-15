@@ -253,7 +253,7 @@ body {
   background-color: #ffffff;
 
   transition: all 0.2s ease-in-out;
-}
+} 
 .col li{
   list-style: none;
 }
@@ -311,6 +311,9 @@ footer a{
   color: #4f4f4f;
   font-family: "Poppins", sans-serif;
 }
+
+
+
 
 /* Media Queries */
 @media (max-width: 991px) {
