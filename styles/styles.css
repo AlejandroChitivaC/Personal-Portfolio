@@ -294,9 +294,10 @@ body {
 #contacto h6{
   font-weight: bold;
 }
-footer{
+#footer{
   height: auto;
 }
+
 footer div{
   background-color: #212529 !important;
 }
