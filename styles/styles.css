@@ -254,6 +254,14 @@ body {
 
   transition: all 0.2s ease-in-out;
 }
+.col li{
+  list-style: none;
+}
+.col{
+  text-align: center;
+  justify-content: center;
+}
+
 
 
 
