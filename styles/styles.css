@@ -58,10 +58,10 @@ html {
   background-size: cover;
   background-image: url("https://mdbcdn.b-cdn.net/img/new/slides/041.webp");
 }
-
-.text-white {
+.titulop{
   height: 100vh;
   margin-top: 300px;
+  color: white;
 }
 
 #typewriter a {
@@ -264,7 +264,6 @@ body {
 
 #contacto{
   margin-top: 50px;
-  margin-bottom: 50px;
   background-color: #fdf5e6;
   height:750px;
 }
@@ -311,6 +310,7 @@ footer a{
   color: #4f4f4f;
   font-family: "Poppins", sans-serif;
 }
+
 
 
 
