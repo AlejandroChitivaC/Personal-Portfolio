@@ -265,7 +265,8 @@ body {
 #contacto{
   margin-top: 50px;
   background-color: #fdf5e6;
-  height:750px;
+  /* height:750px; */
+  height: auto;
 }
 #contacto h2{
   text-align: center;
